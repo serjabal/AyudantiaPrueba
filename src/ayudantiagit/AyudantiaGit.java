@@ -16,6 +16,8 @@ public class AyudantiaGit {
      */
     public static void main(String[] args) {
         System.out.println("prueba sergio");
+        System.out.println("prueba sergio 222");
+
         // TODO code application logic here
     }
     
